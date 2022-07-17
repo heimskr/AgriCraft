@@ -239,10 +239,10 @@ dependencies {
     //runtimeOnly fg.deobf("vazkii.botania:Botania:1.18.2-430")
 
     //Create
-    compileOnly fg.deobf("curse.maven:create-328085:3737418")
-    compileOnly fg.deobf("curse.maven:flywheel-486392:3737402") // create dependency v1.16.5-0.1.1
-    //runtimeOnly fg.deobf("curse.maven:create-328085:3737418")
-    //runtimeOnly fg.deobf("curse.maven:flywheel-486392:3737402") // create dependency
+    compileOnly fg.deobf("curse.maven:create-328085:3872145")
+    compileOnly fg.deobf("curse.maven:flywheel-486392:3871082") // create dependency v1.16.5-0.1.1
+    //runtimeOnly fg.deobf("curse.maven:create-328085:3872145")
+    //runtimeOnly fg.deobf("curse.maven:flywheel-486392:3871082") // create dependency
 
     //Cyclic
     compileOnly fg.deobf("curse.maven:cyclic-239286:3708026")
